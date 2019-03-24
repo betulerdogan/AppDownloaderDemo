@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppDownloaderDemo</string>
+    <string name="hg">Hoşgeldiniz</string>
+    <string name="action_settings">Settings</string>
+</resources>
